@@ -2,7 +2,7 @@
 repositório criado para a disciplina Linguagens 1.
 
 # Desenvolvedor
-## Douglas Giacomelli Amaro Filho
+- Douglas Giacomelli Amaro Filho
 
 # Linguagens e Ferramentas:
 - Java
