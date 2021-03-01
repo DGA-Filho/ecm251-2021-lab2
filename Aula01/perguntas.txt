@@ -1,8 +1,0 @@
-1. Onde está instalado o jdk? Este computador -> c: -> arquivos e programas -> Amazon clorretto
-2. Qual o caminho completo até o java e o javac? 
-3. Como compilamos um programa em linha de comando?
-4. como executamos esse programa?
-5. o que são variáveis de ambiente?
-6.qualquer um pode criar váriaveis de ambiente?
-7.como criar uma variável de ambiente?
-8.o que é o JAVA_HOME?
